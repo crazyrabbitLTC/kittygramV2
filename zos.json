@@ -1,0 +1,11 @@
+{
+  "zosversion": "2.2",
+  "name": "KittyGram",
+  "version": "0.1.0",
+  "contracts": {
+    "KittyGram": "KittyGram"
+  },
+  "dependencies": {
+    "openzeppelin-eth": "^2.1.3"
+  }
+}
